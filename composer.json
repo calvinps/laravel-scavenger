@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": "^7.4",
+    "php": "^7.4|^8.0",
     "illuminate/support": "6 - 8",
     "monolog/monolog": "1.24 - 2",
     "fabpot/goutte": "^3.2",
